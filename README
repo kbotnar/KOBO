@@ -1,4 +1,4 @@
-CONFIGURATION FOR REMOTE RING ZL-03
+CONFIGURATION FILE FOR REMOTE RING ZL-03
 
 1	Connect Kobo to computer.
 	2	In Finder/Documents open disk Kobo.
@@ -18,3 +18,6 @@ ForceWifiOn=true
 	7	Save file.
 	8	Safely eject your Kobo.
 	9 	Disconnect the cable and restart the reader.
+
+
+https://www.reddit.com/r/kobo/comments/1gi3d2j/videotutorial_on_how_to_install_bluetooth_page/
