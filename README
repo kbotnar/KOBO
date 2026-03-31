@@ -1,0 +1,18 @@
+	1	Connect Kobo to computer.
+	2	In Finder/Documents open disk Kobo.
+	(3	On Macbook: Press Cmd + Shift + ., to display hidden files)
+	4	Open folder .kobo, then Kobo.
+	5	Open file "Kobo eReader.conf" in TextEdit.
+	6	Find section [DeveloperSettings].
+
+If it is there:
+ForceWifiOn=true
+
+If it is not there input on the end:
+[DeveloperSettings]
+ForceWifiOn=true
+
+
+	7	Save file.
+	8	Safely eject your Kobo.
+	9 	Disconnect the cable and restart the reader.
